@@ -20,8 +20,6 @@ Tässä ohjeessa käsitellään Scrumia.
 
 ### Tuoteomistaja
 
-# Scrum ohje
-
 ## Scrum-syklin yleiskuvaus
 
 ### Sprintin suunnitelu
