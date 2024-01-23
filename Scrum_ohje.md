@@ -20,16 +20,24 @@ Tässä ohjeessa käsitellään Scrumia.
 
 ### Tuoteomistaja
 
-## Scrum tapahtumat
+# Scrum ohje
 
-### Sprintti
+## Scrum-syklin yleiskuvaus
 
-#### Sprintin suunnittelu
+### Sprintin suunnitelu
 
-#### Daily Scrum
+Sprintille asetetaan tavoite.
 
+### Päivittäinen scrum tapaaminen
 
+Mitä on saavutettu viime tapaamisen jälkeen ja tavoitteet ennen seuraavaa tapaamista.
+
+### Sprint review
+
+Tarkistellaan mitä on saatu aikaan ja mitä pitäisi tehdä seuraavassa sprintissä.
+
+### Sprint retrospektiivi
+
+Yhteenveto sprintistä. Saavutettiinko tavoittet ja mitä paranneltavaa on seuraavaa sprinttiä varten.
 
 ## Scrum meidän ryhmässämme
-
-
