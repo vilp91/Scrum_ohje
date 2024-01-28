@@ -23,13 +23,25 @@ Scrumin viisi arvoa ovat:
 - rohkeus
   - tiimi uskaltaa toimia oikeiksi katsomillaan tavoilla
 
-## Scrum tiimi
+## Scrum-tiimi
+Scrum-tiimi on yleensä maksimissaan 10 ihmisestä koostuva monialainen ja 
+itseohjautuva ryhmä, joka pyrkii yhteen yhteiseen tavoitteeseen - tuotteen 
+tavoitteeseen (tuotteen tuleva tila).  
+Tiimi koostuu kolmesta eri vastuualueesta: kehittäjät, Scrum master ja tuoteomistaja.
 
 ### Kehittäjät
+Kehittäjät vastaavat sprintin suunnittelusta ja sen toteutuksesta niin, 
+että jokainen sprintti tuottaa valmiin määritelmää vastaavan inkrementin.
 
 ### Scrum master
+Scrum master vastaa Scrum tiimin tehokkuudesta siitä, että tiimi ja muu 
+organisaatio ymmärtävät Scrumin teorian ja käytännöt ja toimivat niiden mukaisesti.
 
 ### Tuoteomistaja
+Tuoteomistaja on yksittäinen, mahdollisesti useitakin sidosryhmiä edustava henkilö,
+joka vastaa tuotteen kehitysjonon hallinnasta ja siitä, että tiimin tekemä työ
+tuottaa mahdollisimman suuren arvon. Tuotteen kehitysjonon muutoksia tehdään vain
+tuoteomistajan päätöksestä.
 
 ## Scrum-syklin yleiskuvaus
 
