@@ -11,6 +11,17 @@ Tässä ohjeessa käsitellään Scrumia.
 ### Mukautuvuus
 
 ## Scrumin arvot
+Scrumin viisi arvoa ovat:
+- sitoutuminen
+  - tiimi keskittyy tavoitteiden saavuttamiseen ja toistensa tukemiseen
+- keskittyminen
+  - ensisijainen keskittyminen on sprinttiin valituissa töissä
+- avoimuus
+  - tiimissä ja sidosryhmissä ollaan avoimia työn ja haasteiden suhteen
+- kunnioitus
+  - tiimin jäsenet kunnioittavat toisiaan ja sidosryhmä kunnioittaa tiiimin jäseniä
+- rohkeus
+  - tiimi uskaltaa toimia oikeiksi katsomillaan tavoilla
 
 ## Scrum tiimi
 
