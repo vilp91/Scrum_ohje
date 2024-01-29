@@ -84,3 +84,5 @@ Tarkistellaan mitä on saatu aikaan ja mitä pitäisi tehdä seuraavassa sprinti
 Yhteenveto sprintistä. Saavutettiinko tavoittet ja mitä paranneltavaa on seuraavaa sprinttiä varten. Mietitään miten laatua ja tehokkuutta voidaan parantaa.
 
 ## Scrum meidän ryhmässämme
+
+Käytämme meidän edistymisemme seurantaan ainakin github committeja ja taskien jakoon tehdään jonkunlainen scrum board.
