@@ -5,11 +5,16 @@ Tässä ohjeessa käsitellään Scrumia ja se pohjautuu paljolti [viralliseen Sc
 ## Scrumin teoria
 Scrum on Ken Schwaberin ja Jeff Sutherlandin kehittämä ketterä menetelmä, joka tarjoaa valmiin viitekehyksen projektityöskentelyyn. Scrum perustuu siihen, että keskitytään olennaiseen ja ollaan valmiita muokkaamaan työskentelytapoja perustuen siihen, mikä käytännön kokemuksella todetaan toimivammaksi.
 
+Scrum pohjautuu kolmeen empiiriseen peruspilariin: läpinäkyvyys, tarkastelu ja mukauttaminen. Nämä kolme yhdessä mahdollistavat Scrumin toiminnan.
+
 ### Läpinäkyvyys
+Scrumissa työskentelyn tulee olla läpinäkyvää. Koko prosessin tulee olla tarjolla tarkasteluun kaikille Scrum projektiin osallistuville. Scrum tiimin välillä tulee vallita luottamus siitä, että jokaisen oma työskentely on läpinäkyvää, eikä asioita piilotella tai peitellä. Tämä on mahdollista kun yksilöitä ei rangaista "huonoista suorituksista", vaan tiimi on kollektiivisesti vastuussa työjäljestä. Jos läpinäkyvyyttä ei ole niin tarkastelu ja mukauttaminen keskittyvät hyvin todennäköisesti vääriin asioihin eikä Scrum toimi.
 
 ### Tarkastelu
+Scrumiin on rakennettu sisään paljon tarkastelua tukevia työvaiheita läpi koko prosessin. Kun tarkastelua on tarpeeksi ja se keskittyy oikeisiin kohteisiin, löydetään mahdollisesti mukauttamista vaativat osa-alueet.
 
-### Mukautuvuus
+### Mukauttaminen
+Kun Scrum tiimi havaitsee tarkastelun avulla prosessissa kohdan, joka aiheuttaa ongelmia, tähän tulee puuttua mahdollisimman nopeasti.
 
 ## Scrumin arvot
 Scrumin viisi arvoa ovat:
