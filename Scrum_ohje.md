@@ -1,8 +1,9 @@
 # Scrum Ohje
 
-Tässä ohjeessa käsitellään Scrumia.
+Tässä ohjeessa käsitellään Scrumia ja se pohjautuu paljolti [viralliseen Scrum ohjeeseen](https://scrumguides.org/scrum-guide.html "The 2020 Scrum Guide") ja sen [suomennettuun versioon](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Finnish.pdf "Scrum ohje suomennettuna"). Ohjeen tarkoituksena on, sitä luodessa sekä lopullista tuotosta tarkastellessa, konkretisoida tiimillemme, mitä Scrum on ja avata teorian tasolla kuinka se toimii. Käytäntöön tutustumme lähemmin kurssin edetessä.
 
 ## Scrumin teoria
+Scrum on Ken Schwaberin ja Jeff Sutherlandin kehittämä ketterä menetelmä, joka tarjoaa valmiin viitekehyksen projektityöskentelyyn. Scrum perustuu siihen, että keskitytään olennaiseen ja ollaan valmiita muokkaamaan työskentelytapoja perustuen siihen, mikä käytännön kokemuksella todetaan toimivammaksi.
 
 ### Läpinäkyvyys
 
